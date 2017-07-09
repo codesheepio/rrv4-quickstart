@@ -2,3 +2,7 @@
   font-size: 30px;
   color: #ff00ff;
 }
+a {
+  display: inline-block;
+  margin-right: 5px;
+}
